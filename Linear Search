@@ -1,0 +1,22 @@
+public class linearSearch {
+
+	public static void main(String[] args) {
+		int arNum[]= {1,2,3,4,5,6};
+		int testNum=1;
+		boolean end=false;
+		
+		for(int check : arNum)
+		{
+			if (check == testNum)
+			{
+				end = true;
+				System.out.println("We found the number");
+				break;
+			}
+			
+		}
+		if(end == false)
+			System.out.println("We didnt find the number");
+	}
+
+}
