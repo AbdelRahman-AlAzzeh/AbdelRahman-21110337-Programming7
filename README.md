@@ -1,0 +1,1 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/AbdelRahman-AlAzzeh/AbdelRahman-21110337-Programming7/badge)](https://scorecard.dev/viewer/?uri=github.com/AbdelRahman-AlAzzeh/AbdelRahman-21110337-Programming7)
